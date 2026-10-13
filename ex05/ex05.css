@@ -1,0 +1,107 @@
+.box1{
+    background-color: rgb(180, 178, 178);
+    color: white;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    transition: 2s;
+    cursor: pointer;
+}
+.box1:hover{
+    background-color: black;
+}
+
+.box2{
+    background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    transition: 2s;
+    cursor: pointer;
+    margin-top: 50px;
+}
+.box2:hover{
+background-color: blue;
+}
+
+.box3{
+  background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    margin-top: 50px;
+    transition: 2s;
+}
+.box3:hover{
+    transform: scale(1.1);
+}
+.box4{
+   background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    margin-top: 50px;
+    transition: 2s; 
+}
+.box4:hover{
+     transform: scale(0.8);
+}
+.box5{
+    background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    margin-top: 50px;
+    transition: 0.3s; 
+}
+.box5:hover{
+     transform: rotate(-45deg);
+}
+.box6{
+     background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    margin-top: 50px;
+    transition: 0.3s; 
+}
+.box6:hover{
+     transform: scale(0.8);
+     border-radius: 50%;
+}
+.box7{
+     background-color: gray;
+    color: white;
+     width: 200px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    cursor: pointer;
+    margin-top: 50px;
+    transition: 0.3s; 
+    border: 10px inset #58b3ef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box7:hover{
+     transform: scale(0.8);
+}
+
+
+

@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+}
+li{
+    background-color: rgb(198, 192, 192);
+   color: white;
+   font-size: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    border: 3px solid rgb(67, 64, 64);
+}
+li:hover {
+    background-color: rgb(72, 70, 70);
+}

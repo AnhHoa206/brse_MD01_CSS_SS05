@@ -1,0 +1,11 @@
+a{
+     background-color: rgb(212, 209, 209);
+    color: #000;
+     padding: 40px 30px 20px;
+     border-radius: 4%;
+     text-decoration: none;
+}
+a:active{
+    background-color: red;
+    color:white;
+}

@@ -1,0 +1,7 @@
+button{
+    font-size: 20px;
+    border-left: 5px groove purple;
+    border-top: 2px solid #8f2323;
+    border-right: 3px dotted blue;
+    border-bottom: 5px double green;
+}
